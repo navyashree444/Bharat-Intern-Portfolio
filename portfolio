@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <title> Portfolio </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<!----hero section---->
+<body>
+    <div class="hero">
+        <nav>
+            <h2 class="logo"> <u>Portfo<span>lio</span></u> </h2>
+            <ul>
+                <li><a href="#"> Home </a></li>
+                <li><a href="#"> About </a></li>
+                <li><a href="#"> Contact </a></li>
+                <li><a href="#"> Skills </a></li>
+            </ul>
+        </nav>  
+        <div class="content">
+            <h4> Hello!, I am</h4>
+            <h1> Navya<span>Shree</span> </h1>
+            <div class="newslatter">
+                <form>
+                    <input type="email" name="email" id="mail" placeholder="Enter your email">
+                    <input type="submit" name="submit" value="Let's Start">
+                </form>
+            </div>
+        </div>
+    </div>
+    <!--about section-->
+    <section class="about">
+        <div class="main">
+            <img src="C:\Users\DELL\Desktop\New folder\me3.png">
+            <div class="about-text">
+                <h2>About me</h2>
+                <h5>Developer <span>and</span> Designer</h5>
+                <p>I am a front-end web developer. I can make the website more interactive. 
+                    I can provide a clean code and pixel perfect design, ensuring a 
+                    seamless partnership with clients and stakeholders throughout the development process.
+                    A responsive design makes your website accessible to all users, regardless of their device.</p>
+            </div>
+        </div>
+    </section>
+    <!--contact-->
+    <div class="contact-me">
+        <p>I'm your digital architect, ready to craft an amazing online presence for you.</p>
+        <a class="button-two" href="#">Hire Me</a>
+    </div>
+</body>
+</html>
+
+
+
+
+
