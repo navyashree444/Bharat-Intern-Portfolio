@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
-<!----hero section---->
+
 <body>
     <div class="hero">
         <nav>
@@ -29,7 +29,7 @@
             </div>
         </div>
     </div>
-    <!--about section-->
+    
     <section class="about">
         <div class="main">
             <img src="C:\Users\DELL\Desktop\New folder\me3.png">
@@ -43,7 +43,7 @@
             </div>
         </div>
     </section>
-    <!--contact-->
+    
     <div class="contact-me">
         <p>I'm your digital architect, ready to craft an amazing online presence for you.</p>
         <a class="button-two" href="#">Hire Me</a>
